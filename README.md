@@ -1,2 +1,4 @@
 # Colao_BigData
-Primeiro Repositório no GitHub
+Primeiro Repositório no 
+
+Testando a gravação de novas informações no diretório
